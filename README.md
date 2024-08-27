@@ -22,5 +22,6 @@ Este proyecto es un simple generador de códigos QR desarrollado en Python, que 
 Primero, asegúrate de tener Python instalado en tu máquina. Luego, instala las dependencias necesarias ejecutando el siguiente comando:
 
 ```bash
-pip install qrcode[pil] pillow
+pip install qrcode
+pip install Pillow
 
